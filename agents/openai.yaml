@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chebaturkin Clear Copy"
+  short_description: "Редактура в ясном и тёплом голосе Тимофея"
+  default_prompt: "Используй $chebaturkin-clear-copy, чтобы улучшить этот текст, сохранив мысль, характер и точные условия."
