@@ -1,4 +1,4 @@
 interface:
-  display_name: "Copy"
+  display_name: "chebaturkin copy"
   short_description: "Понятные тексты с сохранением смысла и голоса автора"
   default_prompt: "Используй $copy, чтобы написать или улучшить текст под мою задачу, сохранив смысл, факты и голос автора."
