@@ -1,4 +1,4 @@
 interface:
-  display_name: "Chebaturkin Clear Copy"
-  short_description: "Редактура в ясном и тёплом голосе Тимофея"
-  default_prompt: "Используй $chebaturkin-clear-copy, чтобы улучшить этот текст, сохранив мысль, характер и точные условия."
+  display_name: "Copy"
+  short_description: "Понятные тексты с сохранением смысла и голоса автора"
+  default_prompt: "Используй $copy, чтобы написать или улучшить текст под мою задачу, сохранив смысл, факты и голос автора."
